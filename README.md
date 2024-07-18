@@ -1,1 +1,1 @@
-# optical_character_recog
+# ML-based-Optical-Character-Recognition
